@@ -1,4 +1,4 @@
-# Python-Projects
+# Python Projects
 
 In this section, you will find the different projects in which I have been using Python as a programming language.
 
