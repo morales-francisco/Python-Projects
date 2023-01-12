@@ -7,8 +7,6 @@ Airbnb is an american company operating an online marketplace for short-term hom
 ## Source ##
 The data source is [Inside Airbnb](http://insideairbnb.com/get-the-data/).
 
-[Link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596) to the data dictionary.
-
 Note: All the prices are expressed in Argentinian Pesos.
 
 ## Objective ##
