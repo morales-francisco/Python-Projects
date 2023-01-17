@@ -1,4 +1,4 @@
-# Classification + Clustering - Income Predictor #
+# Classification + Clustering (Scikit-learn) - Income Predictor #
 
 
 ## Introduction ##
