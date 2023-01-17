@@ -9,7 +9,7 @@ Each row is labelled as either having a salary greater than ">50K" or "<=50K".
 The data source is [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Adult).
 
 ## Objective ##
-The objective from this project is to predict whether income exceeds $50K/yr based on census data.
+The objective of this project is to predict whether income exceeds $50K/yr based on census data.
 
 ## Conclusions ##
 
