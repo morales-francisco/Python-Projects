@@ -8,7 +8,7 @@ Superstore is an american company that sells all kinds of goods.
 The data source is [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
 
 ## Objective ##
-The objective from this project is to understand which products, regions, categories and customer segments the Superstore should target or avoid.
+This project aims to understand which products, regions, categories, and customer segments the Superstore should target or avoid.
 
 ## Conclusions ##
 
