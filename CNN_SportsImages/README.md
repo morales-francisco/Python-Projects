@@ -8,7 +8,7 @@ Collection of sports images covering 100 different sports. Images are 224, 224, 
 The data source is [Kaggle](https://www.kaggle.com/datasets/gpiosenka/sports-classification).
 
 ## Objective ##
-The objective of the model is to identify which sport the image belongs to. The intended business application is to be able to generate content adjusted to the preferences of the people who follow us on social networks. A two-day campaign is started asking individuals to upload a photo to their stories with a specific hashtag and a picture of their preferred sport in order to track these preferences. There, we will download the image that they posted to their stories, use this model to determine the sport to which it belongs, find the sports that are frequently referenced, and then modify upcoming material in light of the findings in order to boost follower growth and engagement.
+The objective of the model is to identify which sport the image belongs to. The intended business application is to be able to generate content adjusted to the preferences of the people who follow us on social networks. A two-day campaign is started asking individuals to upload a photo to their stories with a specific hashtag and a picture of their preferred sport to track these preferences. There, we will download the image that they posted to their stories, use this model to determine the sport to which it belongs, find the sports that are frequently referenced, and then modify upcoming material in light of the findings to boost follower growth and engagement.
 
 ## Conclusions ##
 
