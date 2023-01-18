@@ -9,11 +9,10 @@ Each row is labelled as either having a salary greater than ">50K" or "<=50K".
 The data source is [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Adult).
 
 ## Objective ##
-The objective of this project is to predict whether income exceeds $50K/yr based on census data.
+This project's goal is to predict, using census data, whether annual income exceeds $50,000.
 
 ## Conclusions ##
 
-- In order to achieve the goal, a series of models were used: Logistic Regression, KNN, Naive Bayes.
-When analyzing the target variable, I observed that the classes were unbalanced, so the most appropriate metric to compare the models would be the ROC curve and its AUC value. In the three cases I proposed a GridSearch + Cross Validation strategy, in order to find the best hyperparameters for each model. After training the models, I can say that the model with the best performance was KNN, however, as we already know, it has a higher computational cost.
+- Some models were applied, including Logistic Regression, KNN, and Naive Bayes, to reach the objective. The ROC curve and its AUC value would be the best way to compare the models since I discovered that the classes were unbalanced when I explored the target variable. I suggested a GridSearch + Cross Validation approach in each of the three situations to find the ideal hyperparameters for each model. I can say that after the models were trained, the KNN model performed the best, but as we are all aware, it has a higher computational expense.
 
-- In addition to the classification model, a cluster analysis was performed to see if there are homogeneous groups of people. Kmeans, Hierarchical Clustering and DBSCAN models were tested. It was concluded that there is a number of clusters other than 2 that best describes the structure of the data and that is with cluster number = 4, this is seen in both hierarchical clustering and k-means. However, the best results are seen in k-means, since it defines the x and y boundaries that make the most sense for the observed variables. The clustering performed by DBSCAN is not optimal for the structure of the data. This is because the areas of the graph have different densities, being more densely populated at the extremes.
+- To determine whether there are any homogeneous groups of people, a cluster analysis was done in addition to the classification model. The models Kmeans, Hierarchical Clustering, and DBSCAN were probed. The option that best captures the structure of the data, as demonstrated by both hierarchical clustering and k-means, was determined to be four and two clusters. Though k-means defines the x and y boundaries that make the most sense for the observed variables, it produces the best results. DBSCAN's clustering is not the best option given the way the data are organized. This is due to the graph's different densities, with the extremes having higher population densities.
