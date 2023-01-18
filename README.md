@@ -1,8 +1,8 @@
 # Python Projects
 
-In this section, you will find the different projects in which I have been working with Python.
+The various Python-related projects I've worked on are listed in this section. 
 
-The projects I have been working on so far are the following:
+I have been working on the following projects thus far:
 
 - [Data Cleaning + EDA - Airbnb Buenos Aires](https://github.com/morales-francisco/Python-Projects/tree/main/Airbnb-Buenos_Aires)
 - [Data Cleaning + EDA - Superstore](https://github.com/morales-francisco/Python-Projects/tree/main/Superstore)
